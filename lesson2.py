@@ -14,9 +14,9 @@ def get_fib_summ(l):
     """Function for return summa of elements Fibonacci"""
     return sum(n for n in l if n % 2 == 0)
 #############################################################
-n = 1000
+n = 100000
 lst = get_fib_numbers(n)
-print(lst)
+#print(lst)
 a = get_fib_summ(lst)
 print(a)
 
