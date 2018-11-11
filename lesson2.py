@@ -19,5 +19,3 @@ lst = get_fib_numbers(n)
 #print(lst)
 a = get_fib_summ(lst)
 print(a)
-
-
