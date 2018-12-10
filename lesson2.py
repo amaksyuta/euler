@@ -30,11 +30,13 @@ def fib1(n):
 n = 10
 #a = get_fib_summ(get_fib_numbers(n))
 
-M = {0: 0, 1: 1}
-
-
+#M = {0: 0, 1: 1}
 a = fib1(n)
 for i in range(a):
     print(i)
-
+#n = 100000
+lst = get_fib_numbers(n)
+#print(lst)
+#a = get_fib_summ(lst)
+#print(a)
 
