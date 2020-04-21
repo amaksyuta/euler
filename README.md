@@ -1,3 +1,3 @@
 # EULER
 Project for python learning 
-Type python in cmd 
+Type python into cmd : python3 lesson*
