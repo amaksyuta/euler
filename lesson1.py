@@ -9,4 +9,3 @@ while i < 9:
 		SUMA +=i
 
 print("\n[INFO]: Summa is", SUMA)
-print("[INFO]: END lesson1")
