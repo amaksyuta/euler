@@ -1,2 +1,2 @@
-# EULER
+# Euler
 Project for python learning 
